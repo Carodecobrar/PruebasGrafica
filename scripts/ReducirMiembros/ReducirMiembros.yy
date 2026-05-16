@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"ReducirMiembros",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"ReducirMiembros",
+  "parent":{
+    "name":"PruebasGrafica",
+    "path":"PruebasGrafica.yyp",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

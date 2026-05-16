@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"SplitByOperadores",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"SplitByOperadores",
+  "parent":{
+    "name":"PruebasGrafica",
+    "path":"PruebasGrafica.yyp",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

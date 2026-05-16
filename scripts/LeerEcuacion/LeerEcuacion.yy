@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"LeerEcuacion",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"LeerEcuacion",
+  "parent":{
+    "name":"PruebasGrafica",
+    "path":"PruebasGrafica.yyp",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

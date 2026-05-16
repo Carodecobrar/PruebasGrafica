@@ -1,0 +1,15 @@
+contadorX = 0;
+contadorY = 0;
+velocidadX = .1;
+velocidadY = .1;
+direccionX = 1;
+direccionY = 1;
+ecuacion = "y=x^2";
+framesSeparacionTraza = 30;
+contadorSeparacionTraza = 0;
+mitadHorizontal = room_width / 2;
+mitadVertical = room_height / 2;
+puntoOrigenX = mitadHorizontal;
+puntoOrigenY = mitadVertical;
+puntoPrevioX = 0;
+puntoPrevioY = 0;

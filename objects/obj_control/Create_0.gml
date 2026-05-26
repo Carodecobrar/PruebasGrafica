@@ -10,7 +10,6 @@ microMapString = "0123456789-";
 microFont = font_add_sprite_ext(sprMicroFont, microMapString, false, 0);
 //coordenadas abstractas
 escala = 20;
-minX = -mitadHorizontal / escala;
-maxX = mitadHorizontal / escala;
 espacioEntreLineasHorizontal = mitadHorizontal / escala;
 espacioEntreLineasVertical = mitadVertical / escala;
+puntos = [];

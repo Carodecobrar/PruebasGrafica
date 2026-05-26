@@ -1,9 +1,9 @@
 {
   "$GMScript":"v1",
-  "%Name":"LeerEcuacion",
+  "%Name":"isOperator",
   "isCompatibility":false,
   "isDnD":false,
-  "name":"LeerEcuacion",
+  "name":"isOperator",
   "parent":{
     "name":"PruebasGrafica",
     "path":"PruebasGrafica.yyp",

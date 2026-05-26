@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"tokenize",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"tokenize",
+  "parent":{
+    "name":"PruebasGrafica",
+    "path":"PruebasGrafica.yyp",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"isVariable",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"isVariable",
+  "parent":{
+    "name":"PruebasGrafica",
+    "path":"PruebasGrafica.yyp",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

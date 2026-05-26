@@ -1,9 +1,9 @@
 {
   "$GMScript":"v1",
-  "%Name":"ReducirMiembros",
+  "%Name":"parseEquation",
   "isCompatibility":false,
   "isDnD":false,
-  "name":"ReducirMiembros",
+  "name":"parseEquation",
   "parent":{
     "name":"PruebasGrafica",
     "path":"PruebasGrafica.yyp",

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"evaluatePostfix",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"evaluatePostfix",
+  "parent":{
+    "name":"PruebasGrafica",
+    "path":"PruebasGrafica.yyp",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"coordToPlanoX",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"coordToPlanoX",
+  "parent":{
+    "name":"PruebasGrafica",
+    "path":"PruebasGrafica.yyp",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

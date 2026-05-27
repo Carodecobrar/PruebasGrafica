@@ -35,8 +35,8 @@
   "nineSlice":null,
   "origin":0,
   "parent":{
-    "name":"PruebasGrafica",
-    "path":"PruebasGrafica.yyp",
+    "name":"Sprites",
+    "path":"folders/Sprites.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

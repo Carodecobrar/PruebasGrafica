@@ -18,8 +18,8 @@
   ],
   "name":"Room1",
   "parent":{
-    "name":"PruebasGrafica",
-    "path":"PruebasGrafica.yyp",
+    "name":"Rooms",
+    "path":"folders/Rooms.yy",
   },
   "parentRoom":null,
   "physicsSettings":{

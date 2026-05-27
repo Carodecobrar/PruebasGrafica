@@ -5,8 +5,8 @@
   "isDnD":false,
   "name":"isOperator",
   "parent":{
-    "name":"PruebasGrafica",
-    "path":"PruebasGrafica.yyp",
+    "name":"ecuaciones",
+    "path":"folders/Scripts/ecuaciones.yy",
   },
   "resourceType":"GMScript",
   "resourceVersion":"2.0",

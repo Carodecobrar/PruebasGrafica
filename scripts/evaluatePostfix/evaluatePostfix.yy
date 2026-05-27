@@ -5,8 +5,8 @@
   "isDnD":false,
   "name":"evaluatePostfix",
   "parent":{
-    "name":"PruebasGrafica",
-    "path":"PruebasGrafica.yyp",
+    "name":"ecuaciones",
+    "path":"folders/Scripts/ecuaciones.yy",
   },
   "resourceType":"GMScript",
   "resourceVersion":"2.0",

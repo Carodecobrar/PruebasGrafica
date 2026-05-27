@@ -1,4 +1,3 @@
 function planoToCoordY(plano){
-    var distanceFromCenterToBorder = ((room_width / escala)) - plano;
-    
+    return (mitadVertical + (plano * espacioEntreLineasVertical))*sign(plano);
 }

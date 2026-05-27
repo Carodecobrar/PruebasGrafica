@@ -10,8 +10,8 @@
   "name":"obj_control",
   "overriddenProperties":[],
   "parent":{
-    "name":"PruebasGrafica",
-    "path":"PruebasGrafica.yyp",
+    "name":"Objects",
+    "path":"folders/Objects.yy",
   },
   "parentObjectId":null,
   "persistent":false,

@@ -22,15 +22,15 @@ for (var i = 1; i <= escala; i++) {
     draw_text(mitadHorizontal - anchoDeLinea, mitadVertical + (espacioEntreLineasVertical*i), i);
 }
 //y = x^2
-var equation = "x^4 - 10*x^2 + 9";
+var equation = "x^2";
 var X = mitadHorizontal;
 var Y = mitadVertical;
 if (actualFrame == 0) {
     var coordX = X + (espacioEntreLineasHorizontal*contadorX);
     var resultY = parseEquation(equation, coordToPlanoX(coordX), 0);
     var newX = coordX;
-    var newY = Y - (espacioEntreLineasVertical*resultY);
-    var outOfBounds = (newX < 0 || newX > room_width || newY < 0 || newY > room_height);
+    var newY = (Y - (espacioEntreLineasVertical*resultY));
+    var outOfBounds = newX < 0 || newX > room_width || newY < 0 || newY > room_height;
     if (!outOfBounds) {
         var punto = {
             X: newX,

@@ -1,3 +1,3 @@
 function coordToPlanoY(coord) {
-    return (mitadVertical - coord) / espacioEntreLineasVertical;
+    return (coord - mitadVertical) / espacioEntreLineasVertical;
 }

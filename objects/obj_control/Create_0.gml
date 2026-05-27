@@ -13,3 +13,6 @@ escala = 20;
 espacioEntreLineasHorizontal = mitadHorizontal / escala;
 espacioEntreLineasVertical = mitadVertical / escala;
 puntos = [];
+//direccion de graficado
+xDir = 1;
+xSpeed = .1;

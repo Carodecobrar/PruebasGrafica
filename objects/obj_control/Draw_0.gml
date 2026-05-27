@@ -37,7 +37,7 @@ if (actualFrame == 0) {
             Y: newY
         };
         array_push(puntos, punto);
-        contadorX+=.1;
+        contadorX+=xSpeed*xDir;
     } else {
         show_debug_message("Fuera del room!");
     }
